@@ -1,2 +1,2 @@
 # cleanquote-privacy
-Privacy Policy for CleanQuote
+Privacy Policy for Cleanometry
